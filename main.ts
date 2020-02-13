@@ -5,6 +5,6 @@
 namespace test {
     //% block
     export function test(): void {
-        tools.log("test() from test extension");
+        tools.log("test() from test extension...");
     }
 }
